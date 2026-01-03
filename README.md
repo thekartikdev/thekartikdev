@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 💫 About Me:
+**<!--# 💫 About Me:
 👋 About me<br><br>I am a BCA 1st year student with a strong interest in programming, software development, and modern technologies. I am currently focused on building a solid foundation in computer science by learning Core Java, C programming, and exploring areas related to full stack development and artificial intelligence. I enjoy learning by doing and prefer working on practical examples and small projects to strengthen my understanding.<br><br>🔭 I’m currently working on<br><br>I am currently working on improving my Core Java and OOPS concepts while practicing problem-solving through small real-life projects. Along with Java, I am also exploring web development technologies and AI-related tools to understand how different technologies work together in real-world applications.<br><br>👯 I’m looking to collaborate on<br><br>I am looking to collaborate on beginner-friendly open-source projects and learning-based development work, especially projects related to Java, full stack development, or AI. I am open to teamwork, learning from experienced developers, and contributing my effort to meaningful projects.<br><br>🤝 I’m looking for help with<br><br>I am looking for guidance on building real-world projects, understanding proper project structures, and learning best practices for open-source contributions. I would also appreciate mentorship or suggestions on improving coding skills and development workflows.<br><br>🌱 I’m currently learning<br><br>I am currently learning Core Java, OOPS concepts, and web technologies required for full stack development, along with the fundamentals of Generative AI. I am continuously improving my logical thinking, coding habits, and understanding of software development principles.<br><br>💬 Ask me about<br><br>You can ask me about Core Java and OOPS concepts, basics of C programming, and introductory Generative AI topics. I enjoy explaining technical concepts in a simple and easy-to-understand way, which also helps reinforce my own learning.<br><br>⚡ Fun fact<br><br>I strongly believe that hard work, consistency, and curiosity are the keys to growth. I am always eager to learn new technologies and I enjoy sharing my understanding with others in a simple and approachable manner.
 
 
@@ -19,18 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thekartikdev&icon=0&color=0)](https://visitcount.itsvg.in)
-
+**
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**thekartikdev/thekartikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
