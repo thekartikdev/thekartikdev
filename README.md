@@ -9,7 +9,7 @@ BCA student (2nd year) focused on **Java and Full Stack Development**, with hand
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_kartiik29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-sinha-a6a936362)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Kartik-3623)
-[![Discord](https://img.shields.io/badge/Discord-kartik____27-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kartik____27)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kartik____27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartik27march08@gmail.com)
 
 ---
@@ -49,8 +49,8 @@ Arcade Business College, Patna, Bihar
 
 ## 🏆 Hackathon Projects
 
-### [AccessLearn: Inclusive E-Learning Platform](https://github.com/thekartikdev/AccessLearn)
-**Tech:** React · Supabase · PostgreSQL · Gemini AI · Edge Functions
+### [AccessLearn: Inclusive E-Learning Platform](https://accesslearn.vercel.app/)
+**Tech:** React · Supabase · PostgreSQL · Gemini AI · Edge Functions · 🔗 [Live Demo](https://accesslearn.vercel.app/)
 
 - Built with a collaborative hackathon team to deliver multi-modal learning formats: simple text, visuals, audio, examples, and quizzes.
 - Architected the backend on Supabase using Auth, relational PostgreSQL tables, and Row-Level Security (RLS).
